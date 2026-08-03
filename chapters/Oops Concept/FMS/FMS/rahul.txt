@@ -1,0 +1,3 @@
+Hello i am Rahul Rajput  . I am a Data Scientistis having 4 plus years of experience with expertise in python , Numpy , Pandas , Matplotlib , seaborn.
+Recently i  have learned new technologies like Prompt Engineering , Gen AI , and Agentic AI  such as LLM ,RAG System , Deep learning and NLP.
+I love to solv ereal world problems by using these technologies and also love to learn new tools and framework .

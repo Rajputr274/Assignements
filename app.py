@@ -59,7 +59,7 @@ if "student_obj" not in st.session_state:
     st.session_state.student_obj.add_student("Dheeraj", 30, 7878, "Gwalior")
     st.session_state.student_obj.add_student("Rahul", 30, 9420, "Bamor")
     st.session_state.student_obj.add_student("Raghav", 33, 9421, "Nurabaad")
-    st.session_state.student_obj.add_student("Saumya", 25, 1234, "Nurabaad")
+    st.session_state.student_obj.add_student("Soumya", 25, 1234, "Jabalpur")
 
 student = st.session_state.student_obj
 
@@ -68,7 +68,7 @@ student = st.session_state.student_obj
 
 st.set_page_config(page_title="Student Management System", layout="wide")
 
-st.title("🎓 Student Management System")
+st.title("📚📚 Student Management System")
 
 menu = st.sidebar.radio(
     "Select Operation",
